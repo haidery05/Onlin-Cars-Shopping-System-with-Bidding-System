@@ -1,0 +1,253 @@
+body{
+
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url();
+  background-position: center top;
+  background-size: cover;
+}
+
+h4{
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+.nav{
+	float: right;
+	color: red;
+}
+
+.navbar-default {
+    background-color: black;
+}
+
+body {
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#headcar{
+margin: -20px;
+}
+
+.navbar-inner {
+    background:white;
+    border: 0px;
+}
+
+.link-padding{
+	padding:inherit;
+}
+
+.imgset{
+
+	display: none;
+	display: inline;
+	position:relative;
+	width:100%;
+	height:600px;
+	align-content:center;
+	background-position: center;
+	opacity: 1;
+}
+
+.bg{
+	
+	background-color:black;
+	display: inline-block; 
+	min-height: 600px;
+}
+
+
+.content{
+
+	position:absolute;
+	text-align:center;
+	top:400px;
+	left:600px;
+}
+
+.btn{
+
+	margin-right:100px;
+	border-radius: 0px;
+}
+
+#dashb{
+	background-color: #2a88bd;
+	border: 0px outset #2a88bd;
+}
+#dashb:hover{
+	color: #fff;
+	border: 0px outset rgba(0, 0, 0, 0.9);
+	background: rgba(0,0,0, 0.9);
+}
+
+#logout{
+	background-color: #2a88bd;
+	border: 0px outset #2a88bd;
+}
+#logout:hover{
+	color: #fff;
+	border: 0px outset rgba(0, 0, 0, 0.9);
+	background: rgba(0,0,0, 0.9);
+}
+
+#login{
+	background-color: #2a88bd;
+	border: 0px outset #2a88bd;
+}
+#login:hover{
+	color: #fff;
+	border: 0px outset rgba(0, 0, 0, 0.9);
+	background: rgba(0,0,0, 0.9);
+}
+
+.btn-lg{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#shopb{
+	background-color: #2a88bd;
+	border: 0px outset #2a88bd;
+    margin-top: 150px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+#shopb:hover{
+	color: #fff;
+	border: 0px outset rgba(0, 0, 0, 0.9);
+	background: rgba(0,0,0, 0.9);
+}
+
+#family{
+	background-image: url(../images/family_car.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+    height: 700px;
+}
+
+#htext{
+	color: #2a88bd;
+}
+
+.head1{
+	position:absolute;
+	text-align:center;
+	top: 450px;
+	left: 300px;
+	text-align: center;
+	color: #2a88bd;
+}
+
+.head2{
+	position:absolute;
+	text-align:center;
+	top: 500px;
+	left: 500px;
+	text-align: center;
+	color: #2a88bd;
+}
+
+
+
+.c2{
+	margin-top: 20px;
+	align-items: center;
+}
+
+.w3-bar{
+	margin-top:20px;
+	
+}
+
+.box_wrapper {
+    
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    
+    font-weight: bold;
+    
+    color: White;
+    box-shadow: 3px 3px 10px black;
+    background: #337ab7;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    margin-top: 0px;
+    margin-right: 30px;
+    margin-left: 30px;
+
+
+}
+
+#featured{
+	background-image: url(../images/civic2.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 750px;
+}
+
+
+.footer {
+	margin-top: 0px;
+	background: #337ab7;
+	height: auto;
+	padding-bottom: 30px;
+	position: relative;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	border-top: 0px solid #DDDDDD;
+}
+
+.footer h3 {
+	border-bottom: 1px solid #BAC1C8;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 27px;
+	padding: 40px 0 10px;
+	text-transform: uppercase;
+}
+.footer ul {
+	font-size: 13px;
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 15px;
+	color: #F5F5F5;
+}
+.footer ul li a {
+	padding: 0 0 5px 0;
+	display: block;
+}
+.footer a {
+	color: #F5F5F5
+}
+.supportLi h4 {
+	font-size: 20px;
+	font-weight: lighter;
+	line-height: normal;
+	margin-bottom: 0 !important;
+	padding-bottom: 0;
+}
+
+.bg-gray {
+	background-image: -moz-linear-gradient(center bottom, #BBBBBB 0%, #F0F0F0 100%);
+	box-shadow: 0 1px 0 #B4B3B3;
+}
+
+.footer-bottom {
+	background: #5e5e5e;
+	border-top: 0px solid #DDDDDD;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.footer-bottom p.pull-left {
+	padding-top: 6px;
+}
